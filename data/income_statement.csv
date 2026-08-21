@@ -1,0 +1,13 @@
+line_item,FY2021,FY2022,FY2023,FY2024,FY2025,units,source
+Revenue,1783665,2890860,3963126,4322155,4480038,$000s,"10-K FY2023 (filed 2024-03-05, acc# 0001601548-24-000004) Consolidated Statements of (Loss) Income for FY2021-FY2023; 10-K FY2025 (filed 2026-02-23, acc# 0001601548-26-000015) Consolidated Statements of Income (Loss) for FY2024-FY2025"
+Cost of revenue,1623245,2595848,3628271,3979193,4106656,$000s,"same as above"
+SG&A expenses,98400,239241,210439,183758,179112,$000s,"same as above"
+Operating income,62020,55771,124416,159204,194270,$000s,"same as above"
+Loss on extinguishment of debt,0,0,-22298,-1998,-2527,$000s,"same as above"
+Interest expense net,-7985,-61879,-122442,-107900,-79909,$000s,"same as above"
+Other expense net,0,0,-4194,-10465,-10931,$000s,"same as above"
+Pretax income (loss),54035,-6108,-24518,38841,100903,$000s,"same as above"
+Income tax expense (benefit),8307,8222,-1945,4157,23021,$000s,"same as above"
+Net income (loss),45728,-14330,-22573,34684,77882,$000s,"same as above"
+Diluted EPS,3.86,-0.68,-0.73,1.08,2.45,$/share,"same as above"
+Diluted shares outstanding,11836,20996,31084,31967,31820,000s,"same as above"

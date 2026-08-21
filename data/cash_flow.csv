@@ -1,0 +1,12 @@
+line_item,FY2021,FY2022,FY2023,FY2024,FY2025,units,source
+Net income (loss),45728,-14330,-22573,34684,77882,$000s,"10-K FY2023 (acc# 0001601548-24-000004) Consolidated Statements of Cash Flows for FY2021-FY2023; 10-K FY2025 (acc# 0001601548-26-000015) Consolidated Statements of Cash Flows for FY2024-FY2025"
+Depreciation expense,6526,13472,22408,20747,16984,$000s,"same as above"
+Amortization of intangible assets,10028,48643,90423,90821,90621,$000s,"same as above"
+Amortization of cloud computing arrangements,0,0,480,3314,4919,$000s,"same as above; line item introduced FY2023"
+Stock-based compensation,8331,32736,32843,15969,11924,$000s,"same as above"
+Amortization of debt issuance costs,912,7805,9067,7380,6231,$000s,"same as above"
+Net cash provided by operating activities,61339,93495,187968,254237,181992,$000s,"same as above"
+Purchases of capital assets and intangibles,9776,12425,25021,11787,11923,$000s,"same as above (capex)"
+Net cash used in investing activities,-12643,175958,-22649,-28650,-29584,$000s,"same as above; FY2022 positive due to $193.7mm net cash acquired in Vertex merger, 8-K Vectrus/Vertex combination closed 2022-07-05"
+Net cash (used in) provided by financing activities,NA,NA,-211023,-24499,-51480,$000s,"same as above"
+Interest paid,NA,NA,117482,107607,78336,$000s,"same as above, supplemental disclosure"
